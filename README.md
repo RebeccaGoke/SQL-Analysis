@@ -75,7 +75,6 @@ group by state
 order by Donations Asc
 limit 10
 
-
 --10) What are the top 10 cars driven by the highest donor
 select * from donor_data
 select * from donation_data
